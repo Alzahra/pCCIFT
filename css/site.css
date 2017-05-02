@@ -10,6 +10,7 @@ body {
   width: 100%;
   height: 20px;
 }
+
 .brand{
   margin-top: 100px;
 }
@@ -48,6 +49,20 @@ body {
 #premiereligne, #deuxiemeligne, #troisiemeligne{
   margin-top: 50px;
   font-size: 1.3em;
+}
+@media screen and (max-width: 480px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+    text-transform: uppercase;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1em;
+}
 }
 
 h1,
@@ -471,8 +486,8 @@ html { height: 100%;}
   top: 20px;  
   z-index: 999;
   display: block;
-  width: 32px;
-  height: 32px;
+  width: 50px;
+  height: 50px;
   margin-left: 15px;
   background: transparent;
   border: none;
@@ -589,7 +604,7 @@ html { height: 100%;}
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(250,250,250,.8);
+    /*background-color: rgba(250,250,250,.8);*/
     z-index: 1;
 }
 

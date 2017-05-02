@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-	<html lang="fr">
+<header>
 
 		<head>
 
@@ -30,7 +29,6 @@
 
 		</head>
 
-		<body>
 		    <div id="wrapper">
 		        <div class="overlay"></div>
 		 
@@ -43,13 +41,13 @@
 		                    </a>
 		                </li>
 		                <li>
-		                    <a href="site.html">Accueil</a>
-		                </li>
-		                <li style="background: #79aefe;">
-		                    <a href="objectifs.html">Objectifs ( et Volonté)</a>
+		                    <a href="site.php">Accueil</a>
 		                </li>
 		                <li>
-		                    <a href="projets.html">Projets et réalisations</a>
+		                    <a href="objectifs.php">Objectifs ( et Volonté)</a>
+		                </li>
+		                <li>
+		                    <a href="#">Projets et réalisations</a>
 		                </li>
 		                <li>
 		                    <a href="#">Services</a>
@@ -58,34 +56,33 @@
 		                    <a href="#">Antennes régionales</a>
 		                </li>
 		                <li>
-		                    <a href="partenaire.html">Partenaires</a>
+		                    <a href="partenaire.php">Partenaires</a>
 		                </li>
 		                <li>
-		                    <a href="membre.html">Membres</a>
+		                    <a href="membre.php">Membres</a>
 		                </li>
 		                <li>
-		                    <a href="rejoindre.html">Rejoignez nous</a>
+		                    <a href="rejoindre.php">Rejoignez nous</a>
 		                </li>
-		                <li>
-		                    <a href="contact.html">Contact</a>
+		                <li id="contactLi">
+		                    <a href="contact.php">Contact</a>
 		                </li>
 		            </ul>
 		        </nav>
 		        <!-- /#sidebar-wrapper -->
 		        <div class="container">
 		        	<div class="row">
-		        		<div id="entete" class="col-lg-4">
-		    				<img class="img-responsive" src="../Resources/harpe.png" width="90" height="100" alt="Harpe du logo" />
+		        		<div id="entete" class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		    				<img class="img-responsive" src="../Resources/harpe.png" width="90px" height="100px" />
 		    			</div>
-		    			<div class="col-lg-offset-1 col-lg-8">
+		    			<div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-3 col-xs-offset-3 col-lg-8 col-md-8 col-sm-8 col-xs-8">
 		    				<h1 class="brand-name" style="color:  #3D82C6;">pCCIFT</h1>
 		    			</div>
 		    		</div>
-			        
-			    </div>
-			     
-			     <hr class="tagline-divider" style="margin-top: 30px;">
-
+			        	<div class="brand">
+			     			<hr class="tagline-divider">
+			     		</div>
+			     </div>
 		        <!-- Page Content -->
 		        <div id="page-content-wrapper">
 		            <button type="button" class="hamburger is-closed" data-toggle="offcanvas">
@@ -93,41 +90,6 @@
 		    			<span class="hamb-middle"></span>
 						<span class="hamb-bottom"></span>
 		            </button>
-		            <div class="container">
-		            	<div class="box" style="text-align: center;">
-		            		<img src="../Resources/objectif.jpg" width="50%">
-		            	</div>
-		            	<nav id="titreObjectifs" class="nav navbar-default">L’objectif de la préfiguration de la Chambre de Commerce et <br/>d’Industrie Franco Tunisienne est :
-		            	</nav>
-		            	
-		                <div id="contenuObjectifs" class="box">
-	                    	<ul>
-	                        	<li>D’être un pont solide entre le Commerce et l’Industrie des 		deux rives de la Méditerranée.</li>
-								<li>Favoriser les partenariats Franco-Tunisiens.</li>
-								<li>Inciter les TPE/PME à s’orienter vers l’international : 	France et Europe pour les entreprises Tunisiennes, Tunisie et Afrique/Moyen Orient pour les entreprises françaises</li>
-								<li>Etre en phase avec la Transition numérique </li> 
-								<li>Porter et influer pour les intérêts des entreprises et de l’entreprenariat </li>
-								<li>Promouvoir la « Compétitivité Collaborative » chère à Eric</li>
-								<li>Promouvoir les solutions durables et respectueuses de l’environnement et des hommes. </li> 
-							</ul>                     
-			            </div>
-		            </div>
 		        </div>
-		        <!-- /#page-content-wrapper -->
-	        </div>
-		 <footer>
-		    <div class="container">
-		      <div class="row">
-		        <div class="col-md-4"> Facebook</div>
-		        <div class="col-md-4">Twitter</div>
-		        <div class="col-md-4"> Instagram</div>
-		      </div>
 		    </div>
-		  </footer>
-    	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
-    	<script src="../js/bootstrap.min.js"></script>
-    	<script src="../js/site.js"></script>
-
-	</body>
-
-</html>
+		</header>

@@ -46,10 +46,10 @@
 		                    <a href="site.html">Accueil</a>
 		                </li>
 		                <li>
-		                    <a href="objectifs.html">Objectifs ( et Volonté)</a>
+		                    <a href="objectifs.php">Objectifs ( et Volonté)</a>
 		                </li>
 		                <li>
-		                    <a href="projets.html">Projets et réalisations</a>
+		                    <a href="projets.php">Projets et réalisations</a>
 		                </li>
 		                <li>
 		                    <a href="#">Services</a>
@@ -58,16 +58,16 @@
 		                    <a href="#">Antennes régionales</a>
 		                </li>
 		                <li>
-		                    <a href="partenaire.html">Partenaires</a>
+		                    <a href="partenaire.php">Partenaires</a>
 		                </li>
 		                <li>
-		                    <a href="membre.html">Membres</a>
+		                    <a href="membre.php">Membres</a>
 		                </li>
 		                <li>
-		                    <a href="rejoindre.html">Rejoignez nous</a>
+		                    <a href="rejoindre.php">Rejoignez nous</a>
 		                </li>
 		                <li>
-		                    <a href="contact.html">Contact</a>
+		                    <a href="contact.php">Contact</a>
 		                </li>
 		            </ul>
 		        </nav>
@@ -77,17 +77,17 @@
 		        		<div id="entete" class="col-lg-4">
 		    				<img img-responsive src="../Resources/harpe.png" width="90px" height="100px" />
 		    			</div>
-		    			<div class="col-lg-offset-1 col-lg-8">
+		    			<div class="col-lg-offset-1 col-lg-8 col-md-8 col-sm-8">
 		    				<h1 class="brand-name" style="color:  #3D82C6;">pCCIFT</h1>
 		    			</div>
 		    		</div>
-		       <div id="bienvenue" class="brand">
-		       <hr class="tagline-divider">
-		    		BIENVENUE
-		    	</div>
+		       		<div id="bienvenue" class="brand">
+		       			<hr class="tagline-divider">
+		    			BIENVENUE
+		    		</div>
 			        <div class="row">
 
-			             <img class="img-responsive img-full" src="../Resources/logo.png" alt="">
+			             <img class="img-responsive img-full" src="../Resources/logo.png" alt="le logo">
 			                    
 			           <hr class="tagline-divider2">
 			                    
@@ -112,15 +112,7 @@
 		        </div>
 		        <!-- /#page-content-wrapper -->
 	        </div>
-			<footer>
-		    <div class="container">
-		      <div class="row">
-		        <div class="col-md-4"> Facebook</div>
-		        <div class="col-md-4">Twitter</div>
-		        <div class="col-md-4"> Instagram</div>
-		      </div>
-		    </div>
-		  </footer>
+			<?php include('pied.php'); ?>
     	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
     	<script src="../js/bootstrap.min.js"></script>
     	<script src="../js/site.js"></script>
