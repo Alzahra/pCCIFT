@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang="fr">
     <?php include('entete.php');?>
-  <body>
+  <body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
   <div class="container">
     <div class="row">
       <div class="col-md-12" style="color: red">

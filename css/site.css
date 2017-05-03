@@ -14,9 +14,6 @@ body {
 .brand{
   margin-top: 100px;
 }
-.container{
-  margin-top: 15px;
-}
 
 .container h2{
   color: black; 
@@ -31,8 +28,7 @@ body {
 }
 
 #contenuObjectifs{
-  color: black; 
-  font-weight: bold; 
+  color: black;  
   font-size: 1.7em; 
   font-style: italic;
   margin-top: 60px;
@@ -43,7 +39,7 @@ body {
   font-weight: bold; 
   font-style: italic;
   font-size: 1.7em;
-  border-color: #e7e7e7;
+  margin-top: 20px;
 }
 
 #premiereligne, #deuxiemeligne, #troisiemeligne{

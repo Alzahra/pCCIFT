@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
     <?php include('entete.php');?>
-    <body>
-
-        <div class="brand" style="color: black;">
-            Partenaires :
-        </div>
+    <body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
         <!-- Page Content -->
             <div class="container">
+                <div style="text-align: center;">
+                    <img class="img-responsive" src="../Resources/partenaire.jpg" width="100%">
+                </div>
+                <div class="brand" style="color: black;">
+                    Partenaires :
+                </div>
 
                 <table id="effacer1">
                      <tr>
@@ -26,8 +28,6 @@
                 </table>
 
             </div>
-        </div>
-    </div>
 
     <!-- /#wrapper -->
     <?php include('pied.php'); ?>
