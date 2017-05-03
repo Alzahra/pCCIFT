@@ -11,13 +11,13 @@
             		<img src="../Resources/antenne.jpg" width="100%">
             	</div>
                 <div class="row">
-                    <div class="col-md-offset-4 col-lg-offset-4 col-sm-offset-4 col-xs-offset-4 col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
                           <img src="../Resources/regionPACA.jpg" alt="regionPACA" width="300" height="200">
                           <div style="font-size: 1.5em;">Région PACA</div>
                     </div>
                 </div>
                 <div class="row" style="margin-top: 35px; font-size: 1.3em;">
-                    <div class="col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-4" style="text-align: center;">
                           <img src="../Resources/embleme_marseille.jpg" alt="regionPACA" width="250" height="200">
                           <div>Marseille </div>
                           <div class="row">
@@ -28,7 +28,7 @@
                             <a href="mailto:ccfrancotunisienne@hotmail.com">ccfrancotunisienne@hotmail.com</a>
                           </div>
                     </div>
-                    <div class="col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-4" style="text-align: center;">
                           <img src="../Resources/nice.jpg" alt="regionPACA" width="250" height="200">
                           <div>Frejus/Nice</div>
                           <div class="row">
@@ -39,20 +39,20 @@
                             <a href="mailto:assoc.scarab@gmail.com">assoc.scarab@gmail.com</a>
                           </div>
                     </div>
-                    <div class="col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-4" style="text-align: center;">
                           <img src="../Resources/toulon.gif" alt="regionPACA" width="250" height="200">
                           <div>La Seyne/Toulon </div>
                             <div>En cours de validation</div>
                     </div>
                 </div>
                 <div class="row" style="margin-top: 50px;">
-                    <div class="col-md-offset-4 col-lg-offset-4 col-sm-offset-4 col-xs-offset-4 col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
                           <img src="../Resources/regionParis.jpg" alt="regionPACA" width="300" height="200">
                           <div style="font-size: 1.5em;">Région Parisienne</div>
                     </div>
                 </div>
                 <div class="row" style="margin-top: 35px; font-size: 1.3em;">
-                    <div class="col-md-offset-4 col-lg-offset-4 col-sm-offset-4 col-xs-offset-4 col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-offset-4 col-md-4 " style="text-align: center;">
                           <img src="../Resources/paris.gif" alt="region Parisienne" width="250" height="200">
                           <div>Paris</div>
                           <div class="row">
@@ -63,13 +63,13 @@
                     </div>
                 </div>
                 <div class="row" style="margin-top: 50px;">
-                    <div class="col-md-offset-4 col-lg-offset-4 col-sm-offset-4 col-xs-offset-4 col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
                           <img src="../Resources/ra.jpg" alt="region RA" width="300" height="200">
                           <div style="font-size: 1.5em;">Région Rhône Alpes</div>
                     </div>
                 </div>
                 <div class="row" style="margin-top: 35px; font-size: 1.3em;">
-                    <div class="col-md-offset-4 col-lg-offset-4 col-sm-offset-4 col-xs-offset-4 col-md-4 col-lg-4 col-sm-4 col-xs-4" style="text-align: center;">
+                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
                           <img src="../Resources/lyon.jpg" alt="region Parisienne" width="250" height="200">
                           <div>Lyon</div>
                           <div>
