@@ -13,10 +13,10 @@
                   <span class="navbar-toggler-icon"></span>
                </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav" style="">
-            <li class="nav-item"> <a class="nav-link" href="projets.php">L'équipe</a> </li>
+          <ul class="navbar-nav" style="list-style: none;">
+            <li class="nav-item" style="margin-left: 20px;"> <a class="nav-link" href="projets.php">L'équipe</a> </li>
             <li class="nav-item" style="border-bottom: 3px solid red"> <a class="nav-link active" href="realisation.html">réalisations</a> </li>
-            <li class="nav-item"><a class="nav-link" href="avenir.php">NOS PROJETS</a></li>
+            <li class="nav-item" style="margin-left: 20px;"><a class="nav-link" href="avenir.php">NOS PROJETS</a></li>
           </ul>
         </div>
       </div>

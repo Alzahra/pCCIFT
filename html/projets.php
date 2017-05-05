@@ -11,10 +11,10 @@
     <nav class="navbar navbar-light bg-faded">
       <div class="container text-center">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav" style="">
+          <ul class="navbar-nav" style="list-style: none;">
             <li class="nav-item active" style="border-bottom: 3px solid red"> <a class="nav-link active" href="projets.html">L'équipe</a></li>
-            <li class="nav-item"> <a class="nav-link" href="realisation.php">réalisations</a> </li>
-            <li class="nav-item"><a class="nav-link" href="avenir.php">Nos Projets</a></li>
+            <li class="nav-item" style="margin-left: 20px;"> <a class="nav-link" href="realisation.php">réalisations</a> </li>
+            <li class="nav-item" style="margin-left: 20px;"><a class="nav-link" href="avenir.php">Nos Projets</a></li>
           </ul>
         </div>
       </div>
