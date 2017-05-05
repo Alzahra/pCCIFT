@@ -129,7 +129,7 @@
     </div>
     <hr class="pi-draggable" style="min-height:20px;width:100%" draggable="true">
     <div class="container">
-        <h1 class="text-primary" draggable="true" style="text-decoration: underline">Le bureau</h1>
+        <h1 class="text-primary" draggable="true" style="text-decoration: underline">La Commission</h1>
       <div class="text-center" draggable="true">
         <div class="container">
           <div class="row" style="margin-top: 40px;">
