@@ -4,7 +4,7 @@
 		<body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
             <div class="container">
             	<div style="text-align: center; margin-bottom: 20px;">
-            		<img src="../Resources/objectif5.jpg" width="80%">
+            		<img src="../Resources/objectif1.jpg" width="80%">
             	</div>
             	<nav id="titreObjectifs">L’objectif de la préfiguration de la Chambre de Commerce et <br/>d’Industrie Franco Tunisienne est :
             	</nav>

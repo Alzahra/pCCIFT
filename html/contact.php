@@ -4,7 +4,7 @@
 		<body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
             <div class="container" >
             	<div class="row" style="text-align: center;">
-            		<img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/contact.jpg">
+            		<img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/contact1.jpg">
             	</div>
 				<nav id="titreContact" style="text-align: center;">
 		       		N'hésitez pas à nous contacter si vous avez des questions.
