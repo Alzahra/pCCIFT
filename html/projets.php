@@ -5,10 +5,10 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12" style="color: red">
-        <h1 class="text-center">L'équipe</h1>
+        <h1 class="text-left">L'équipe</h1>
       </div>
     </div>
-    <nav class="navbar navbar-light bg-faded">
+    <nav class="navbar navbar-light bg-faded" style="padding-top: 20px;">
       <div class="container text-center">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav" style="list-style: none;">
@@ -21,7 +21,7 @@
     </nav>
     <div class="row">
       <div class="col-md-12">
-        <h1 class="text-primary" style="text-decoration: underline">Historique</h1>
+        <h1 class="text-center" style="font-weight: bold;">Historique</h1>
         <p>Avril 2016, Eric Narsisyan contacte Adbdelkrim Abour pour décider de lancer la préfiguration de la CCIFT, Abdel en parlait déjà avec Nessima et Walid.<br/>
         Cette idée n’est pas nouvelle mais les tentatives précédentes avaient échoué.<br/>
         L’association
@@ -29,7 +29,8 @@
         <hr style="min-height:20px;width:100%" draggable="true"> </div>
     </div>
     <div class="row">
-      <h1 class="text-primary" draggable="true" style="text-decoration: underline">Le bureau</h1>
+      <div class="col-md-12">
+        <h1 class="text-center" style="font-weight: bold;">Le bureau</h1>
       <div class="text-center" draggable="true">
         <div class="container">
           <div class="row">
@@ -48,9 +49,11 @@
           </div>
         </div>
       </div>
-      <hr style="min-height:20px;width:100%" draggable="true"> </div>
+      </div>
+      </div>
+      <hr  draggable="true"> </div>
 <div class="container">
-    <h1 class="text-primary" draggable="true" style="text-decoration: underline">Le Conseil d'administratiion</h1>
+    <h1 class="text-center" draggable="true" style="font-weight: bold;">Le Conseil d'administratiion</h1>
     <div class="text-center" draggable="true">
         <div class="row">
           <div class="col-md-4"> <img src="https://pingendo.com/assets/photos/user_placeholder.png" class="center-block rounded-circle img-fluid img-responsive">
@@ -126,10 +129,11 @@
           </div> 
           </div>
         </div>
+        <hr class="pi-draggable" style="min-height:20px;width:100%" draggable="true">
     </div>
-    <hr class="pi-draggable" style="min-height:20px;width:100%" draggable="true">
+    
     <div class="container">
-        <h1 class="text-primary" draggable="true" style="text-decoration: underline">Le bureau</h1>
+        <h1 class="text-center" draggable="true" style="font-weight: bold;">COMMISSION</h1>
       <div class="text-center" draggable="true">
         <div class="container">
           <div class="row" style="margin-top: 40px;">
