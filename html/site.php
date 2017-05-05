@@ -42,8 +42,8 @@
 		                       Menu
 		                    </a>
 		                </li>
-		                <li style="background: #ec1b5a;">
-		                    <a href="site.html">Accueil</a>
+		                <li>
+		                    <a href="site.php">Accueil</a>
 		                </li>
 		                <li>
 		                    <a href="objectifs.php">Objectifs ( et Volonté)</a>
@@ -52,10 +52,10 @@
 		                    <a href="projets.php">Projets et réalisations</a>
 		                </li>
 		                <li>
-		                    <a href="#">Services</a>
+		                    <a href="service.php">Services</a>
 		                </li>
 		                <li>
-		                    <a href="#">Antennes régionales</a>
+		                    <a href="antenneRegional.php">Antennes régionales</a>
 		                </li>
 		                <li>
 		                    <a href="partenaire.php">Partenaires</a>

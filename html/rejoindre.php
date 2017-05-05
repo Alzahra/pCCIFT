@@ -8,7 +8,7 @@
             		<img src="../Resources/join3.jpg" width="10%">
             	</div>
             	<div style="text-align: center;">
-            		<img class="img-responsive" src="../Resources/join2.jpg" width="100%">
+            		<img class="img-responsive" src="../Resources/join2_1.jpg" width="100%">
             	</div>
             	<nav id="titreJoin">
 	            	<h2 >Vous avez des projets ?</h2>

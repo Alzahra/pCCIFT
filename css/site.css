@@ -22,7 +22,7 @@ body {
 }
 
 #bienvenue{
-  font-family: /*"jazz let", fantasy,*/ cursive;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: black;
   font-weight: bold;
 }
@@ -57,7 +57,11 @@ body {
     font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
-    font-size: 1em;
+    font-size: 0.8em;
+    }
+  .hamburger {
+    width: 30px;
+    height: 30px;
 }
 }
 
@@ -200,8 +204,6 @@ label{
 }
 
 #effacer1 {
-    border-collapse: collapse;
-    border :hidden;
     margin-right : auto;
     font-size: 2.5em;
     font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -211,10 +213,6 @@ label{
     min-width:100%;
 }
 
-td{
-    padding-right: 50px;
-    width:25%;
-}
 @media screen and (min-width:768px) {
     .brand {
         display: inherit;
@@ -319,7 +317,7 @@ html { height: 100%;}
 #sidebar-wrapper {
     z-index: 1000;
     left: 220px;
-    width: /*270px*/0;
+    width: 0;
     height: 100%;
     margin-left: -220px;
     overflow-y: auto;

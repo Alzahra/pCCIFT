@@ -47,7 +47,7 @@
 		                    <a href="objectifs.php">Objectifs ( et Volonté)</a>
 		                </li>
 		                <li>
-		                    <a href="#">Projets et réalisations</a>
+		                    <a href="projets.php">Projets et réalisations</a>
 		                </li>
 		                <li>
 		                    <a href="service.php">Services</a>
@@ -64,7 +64,7 @@
 		                <li>
 		                    <a href="rejoindre.php">Rejoignez nous</a>
 		                </li>
-		                <li id="contactLi">
+		                <li>
 		                    <a href="contact.php">Contact</a>
 		                </li>
 		            </ul>
