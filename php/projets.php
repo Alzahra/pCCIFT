@@ -202,7 +202,7 @@
   <?php include('pied.php'); ?>
   <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
   <script src="../js/bootstrap.min.js"></script>
-  <script src="../js/site.js"></script>
+  <script src="../js/control.js"></script>
 </body>
 
 </html>

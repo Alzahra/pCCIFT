@@ -3,7 +3,12 @@
 		<?php include('entete.php');?>
 		<body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
 		    
-            <div class="container">
+            <div class="container-fluid">
+                <div style="text-align: center; font-weight: bold;">
+                    <h1>
+                    Nos Services
+                </h1>
+                </div>
             	<div style="text-align: center; margin-bottom: 10px;">
             		<img src="../Resources/service3.jpg" width="100%">
             	</div>
@@ -22,7 +27,7 @@
 		 <?php include('pied.php'); ?>
     	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
     	<script src="../js/bootstrap.min.js"></script>
-    	<script src="../js/site.js"></script>
+    	<script src="../js/control.js"></script>
 
 	</body>
 
