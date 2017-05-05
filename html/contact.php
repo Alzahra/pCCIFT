@@ -6,7 +6,7 @@
             	<div class="row" style="text-align: center;">
             		<img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/contact1.jpg">
             	</div>
-				<nav id="titreContact" style="text-align: center;">
+				<nav id="titreContact" style="text-align: center; color: #645D5D; text-transform: uppercase;">
 		       		N'hésitez pas à nous contacter si vous avez des questions.
 		        </nav>
 			    <div id="premiereligne" class="row">

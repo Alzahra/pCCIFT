@@ -23,7 +23,7 @@ body {
 
 #bienvenue{
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-  color: black;
+  color: #645D5D;
   font-weight: bold;
 }
 
@@ -37,7 +37,6 @@ body {
 #titreObjectifs, #titreContact, #titreJoin{
   color: black; 
   font-weight: bold; 
-  font-style: italic;
   font-size: 1.7em;
   margin-top: 20px;
 }
@@ -160,7 +159,7 @@ hr {
 }
 
 footer {
-    background: blue;
+    background: gray;
     height: 120px;
     margin-top: 50px;
 }

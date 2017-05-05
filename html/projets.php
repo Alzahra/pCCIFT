@@ -135,35 +135,37 @@
     <div class="container">
         <h1 class="text-center" draggable="true" style="font-weight: bold;">COMMISSION</h1>
       <div class="text-center" draggable="true">
-        <div class="container">
+        <div class="container" style="font-size: 1.3em;">
           <div class="row" style="margin-top: 40px;">
             <div class="col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
                           <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
-                          <div class="row">
-                                <div>Coordination commission: Animateur Moncef Bensaad</div>
-                                <span class="glyphicon glyphicon-phone">:</span>
-                                <span>+33 663846670</span><br/>
-                                <span class="glyphicon glyphicon-envelope">:</span>
+                          
+                                <div>Coordination commission:</div>
+                                <div style="font-weight: bold;">Moncef Bensaad</div>
+                                    <span class="glyphicon glyphicon-phone"></span>+33 663846670</span><br/>
+                                <span class="glyphicon glyphicon-envelope"></span>
                                 <a href="mailto:moncefbensaad@yahoo.fr">moncefbensaad@yahoo.fr</a>
-                          </div>
+                         
                 </div>
                 <div class="col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
                           <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
                           <div class="row">
-                                <div>Commission Agriculture: Animateur Jamel</div>
+                                <div>Commission Agriculture</div>
+                                <div style="font-weight: bold;">Jamel</div>
                                 <span class="glyphicon glyphicon-phone">:</span>
                                 <span>+33 620302748</span><br/>
-                                <span class="glyphicon glyphicon-envelope">:</span>
+                                <span class="glyphicon glyphicon-envelope"></span>
                                 <a href="mailto:J.amel.15@hotmail.fr">J.amel.15@hotmail.fr</a>
                           </div>
                 </div>
                 <div class="col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
                           <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
                           <div class="row">
-                                <div>Commission Communication: Animateur Eric Narsisyan</div>
-                                <span class="glyphicon glyphicon-phone">:</span>
+                                <div>Commission Communication</div>
+                                <div style="font-weight: bold;">Eric Narsisyan</div>
+                                <span class="glyphicon glyphicon-phone"></span>
                                 <span>+33 614469012</span><br/>
-                                <span class="glyphicon glyphicon-envelope">:</span>
+                                <span class="glyphicon glyphicon-envelope"></span>
                                 <a href="mailto:domric@orange.fr">domric@orange.fr</a>
                           </div>
                 </div>
@@ -172,20 +174,22 @@
                 <div class="col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
                           <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
                           <div class="row">
-                                <div>commission Innovation: Animateur Abdelkrim Beji</div>
-                                <span class="glyphicon glyphicon-phone">:</span>
+                                <div>commission Innovation</div>
+                                <div style="font-weight: bold;">Abdelkrim Beji</div>
+                                <span class="glyphicon glyphicon-phone"></span>
                                 <span>+33 629276401</span><br/>
-                                <span class="glyphicon glyphicon-envelope">:</span>
+                                <span class="glyphicon glyphicon-envelope"></span>
                                 <a href="mailto:kbj13@gmail.com">kbj13@gmail.com</a>
                           </div>
                 </div>
                 <div class="col-md-offset-4 col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
                           <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
                           <div class="row">
-                                <div>commission Halieutique(Mer): Animateur Ali Lakidar</div>
-                                <span class="glyphicon glyphicon-phone">:</span>
+                                <div>commission Halieutique</div>
+                                <div style="font-weight: bold;">Ali Lakidar</div>
+                                <span class="glyphicon glyphicon-phone"></span>
                                 <span>+33 606742048</span><br/>
-                                <span class="glyphicon glyphicon-envelope">:</span>
+                                <span class="glyphicon glyphicon-envelope"></span>
                                 <a href="mailto:lou.ali@hotmail.fr">lou.ali@hotmail.fr</a>
                           </div>
                 </div>
