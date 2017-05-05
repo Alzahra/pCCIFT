@@ -12,6 +12,9 @@
 
 		    <!-- Bootstrap Core CSS -->
 		    <link href="../css/bootstrap.min.css" rel="stylesheet">
+		     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+ 			 <link rel="stylesheet" href="https://pingendo.com/assets/bootstrap/bootstrap-4.0.0-alpha.6.css" type="text/css"> </head>
+
 
 		    <!-- Custom CSS -->
 		    <link href="../css/site.css" rel="stylesheet">
