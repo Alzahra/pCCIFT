@@ -1,5 +1,8 @@
 <!DOCTYPE html>
     <html lang="fr">
+        <head>
+            <title>Membres</title>
+        </head>
         <?php include('entete.php');?>
     <body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
         <!-- Page Content -->

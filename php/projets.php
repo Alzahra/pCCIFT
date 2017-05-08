@@ -1,5 +1,8 @@
 <!DOCTYPE html>
   <html lang="fr">
+    <head>
+          <title>Nos projets et réalisations</title>
+      </head>
     <?php include('entete.php');?>
   <body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
   <div class="container">
@@ -10,13 +13,11 @@
     </div>
     <nav class="navbar navbar-light bg-faded" style="padding-top: 20px;">
       <div class="container text-center">
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav" style="list-style: none;">
             <li class="nav-item active" style="border-bottom: 3px solid red"> <a class="nav-link active" href="projets.html">L'équipe</a></li>
             <li class="nav-item" style="margin-left: 20px;"> <a class="nav-link" href="realisation.php">réalisations</a> </li>
             <li class="nav-item" style="margin-left: 20px;"><a class="nav-link" href="avenir.php">Nos Projets</a></li>
           </ul>
-        </div>
       </div>
     </nav>
     <div class="row">
@@ -88,7 +89,7 @@
             <p>Tél:</p>
           </div> 
           <div class="col-md-4">
-                <img src="https://pingendo.com/assets/photos/user_placeholder.png" class="rounded-circle img-fluid img-responsive">
+                <img src="../Resources/eric2.JPG" class="rounded-circle img-fluid img-responsive">
             <h3>Éric Narsisyan</h3>
             <p>Tél:</p>
           </div>
@@ -159,14 +160,16 @@
                           </div>
                 </div>
                 <div class="col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
-                          <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
+                          <img src="../Resources/eric2.JPG" alt="avatar" width="250" height="150">
                           <div class="row">
                                 <div>Commission Communication</div>
                                 <div style="font-weight: bold;">Eric Narsisyan</div>
+                                <div>co-fondateur</div>
+                                <div>Pdt Sté Bizidev</div>
                                 <span class="glyphicon glyphicon-phone"></span>
                                 <span>+33 614469012</span><br/>
                                 <span class="glyphicon glyphicon-envelope"></span>
-                                <a href="mailto:domric@orange.fr">domric@orange.fr</a>
+                                <a href="mailto:Business@Bizidev.com">Business@Bizidev.com</a>
                           </div>
                 </div>
           </div>

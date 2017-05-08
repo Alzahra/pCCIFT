@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 	<html lang="fr">
+        <head>
+            <title>Objectifs</title>
+        </head>
 		<?php include('entete.php');?>
 		<body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
             <div class="container">

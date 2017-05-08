@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-
+  <head>
+      <title>Nos projets</title>
+  </head>
  <?php include('entete.php');?>
 <body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
   <div class="container">
@@ -11,14 +13,12 @@
     </div>
     <nav class="navbar navbar-expand-md navbar-light bg-faded">
       <div class="container text-center"> 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav" style="list-style: none;">
             <li class="nav-item"> <a class="nav-link" href="projets.php">L'équipe</a> </li>
             <li class="nav-item" style="margin-left: 20px;""> <a class="nav-link active" href="realisation.php">réalisations</a> </li>
             <li class="nav-item" style="margin-left: 20px; border-bottom: 3px solid red;""><a class="nav-link" href="avenir.php">NOS PROJETS</a>
             </li>
           </ul>
-        </div>
       </div>
     </nav>
   </div>

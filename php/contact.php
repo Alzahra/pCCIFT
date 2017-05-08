@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-	<?php include('entete.php'); ?>
 	<html>
+		<head>
+      		<title>Contact</title>
+    	</head>
+    	<?php include('entete.php'); ?>
 		<body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
             <div class="container" >
             	<div class="row" style="text-align: center;">
@@ -41,7 +44,7 @@
 			              </div>
 			        </div>
 			        <div class="col-md-offset-4 col-md-4" style="border-radius: 50px 50px 50px 50px; text-align: center;">
-			              <img src="../Resources/avatar.png" alt="avatar" width="200" height="200">
+			              <img src="../Resources/eric2.JPG" alt="avatar" width="250" height="150">
 			              <div class="row">
 			              		<div>Communication: Eric Narsisyan</div>
 			              		<span class="glyphicon glyphicon-phone">:</span>
