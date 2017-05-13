@@ -14,9 +14,8 @@
     <nav class="navbar navbar-expand-md navbar-light bg-faded" style="margin-top: 40px;">
       <div class="container text-center"> 
           <ul class="navbar-nav" style="list-style: none;">
-            <li class="nav-item" style="margin-left: 20px;"> <a class="nav-link" href="projets.php">L'équipe</a> </li>
+          <li class="nav-item" style="margin-left: 20px;"><a class="nav-link" href="projets.php">NOS PROJETS</a></li>
             <li class="nav-item" style="border-bottom: 3px solid red; margin-left: 20px;"> <a class="nav-link active" href="realisation.html">réalisations</a> </li>
-            <li class="nav-item" style="margin-left: 20px;"><a class="nav-link" href="avenir.php">NOS PROJETS</a></li>
           </ul>
       </div>
     </nav>

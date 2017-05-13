@@ -34,7 +34,7 @@
 		</head>
 
 		    <div id="wrapper">
-		        <div class="overlay"></div>
+		        <!--<div class="overlay"></div>-->
 		 
 		        <!-- Sidebar -->
 		        <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
@@ -49,6 +49,9 @@
 		                </li>
 		                <li>
 		                    <a href="objectifs.php">Objectifs</a>
+		                </li>
+		                <li>
+		                    <a href="equipe.php">Équipe</a>
 		                </li>
 		                <li>
 		                    <a href="projets.php">Projets et réalisations</a>
@@ -75,12 +78,16 @@
 		        </nav>
 		        <!-- /#sidebar-wrapper -->
 		        <div class="container">
-		        	<div class="row">
+		        	<div class="row" style="width: 100%;">
 		        		<div id="entete" class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-		    				<img class="img-responsive" src="../Resources/harpe.png" width="90px" height="100px" />
+		    				<img class="img-responsive" src="../Resources/harpe.png" width="90" height="100" />
 		    			</div>
-		    			<div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-3 col-xs-offset-3 col-lg-8 col-md-8 col-sm-8 col-xs-8">
+		    			<div class="col-lg-offset-4 col-lg-4 col-md-4 col-sm-4 col-xs-4">
 		    				<h1 class="brand-name" style="color:  #3D82C6;">pCCIFT</h1>
+		    			</div>
+
+		    			<div class="col-md-4">
+		    				<a class="pull-right" href="#"><img style="border-radius: 50px 50px 50px 50px;" class="img-responsive" src="../Resources/acces_membre.png" width="70" height="50">Accès membre</a><br>
 		    			</div>
 		    		</div>
 			        	<div class="brand">

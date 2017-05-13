@@ -8,18 +8,21 @@
 		    
             <div class="container">
             	<div style="text-align: center; margin-bottom: 10px;">
-            		<img src="../Resources/join3.jpg" width="10%">
+            		<h1 class="LesTitresDebut">Rejoignez nous</h1>
             	</div>
-            	<div style="text-align: center;">
-            		<img class="img-responsive" src="../Resources/join2_1.jpg" width="100%">
-            	</div>
-            	<nav id="titreJoin">
-	            	<h2 >Vous avez des projets ?</h2>
-                	<h2>Vous êtes une entreprise Française ou Tunisienne qui désire développer en France ou en Tunisie ?</h2>
-                	<h2>Vous êtes un particulier qui veut participer ou soutenir notre objectif ?</h2>
-                	<h2>Devenez membre vous êtes les bienvenus.</h2>
+                <div class="row">
+                	<div style="text-align: center;">
+                		<img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/logo.png">
+                	</div>
+                </div>
+
+            	<nav id="titreJoin" class="memePolice">
+	            	<span>Vous avez des projets ?</span><br/>
+                	<span>Vous êtes une entreprise Française ou Tunisienne qui désire développer en France ou en Tunisie ?</span><br/>
+                	<span>Vous êtes un particulier qui veut participer ou soutenir notre objectif ?</span><br/>
+                	<span>Devenez membre vous êtes les bienvenus.</span>
                 </nav>
-                <div id="contenuObjectifs">
+                <div id="contenuObjectifs" class="memePolice">
                 	<ul>
                 		<li>Tarif cotisation Membre personne individuelle :</li>
 						<li>Tarif cotisation Entreprises :</li>

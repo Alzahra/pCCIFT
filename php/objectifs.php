@@ -6,18 +6,19 @@
 		<?php include('entete.php');?>
 		<body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
             <div class="container">
-                <div style="text-align: center; font-weight: bold;">
-                    <h1>
-                    Nos objectifs
-                </h1>
+                <div style="text-align: center;">
+                    <h1 class="LesTitresDebut">
+                        Nos objectifs
+                    </h1>
                 </div>
-            	<div style="text-align: center; margin-bottom: 20px;">
-            		<img src="../Resources/objectif1.jpg" width="80%">
-            	</div>
-            	<nav id="titreObjectifs">L’objectif de la préfiguration de la Chambre de Commerce et <br/>d’Industrie Franco Tunisienne est :
+                <div class="row">
+                	<div style="text-align: center; margin-bottom: 20px;">
+                		<img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/logo.png">
+                	</div>
+                </div>
+            	<nav class="memePolice" id="titreObjectifs">L’objectif de la préfiguration de la Chambre de Commerce et <br/>d’Industrie Franco Tunisienne est :
             	</nav>
-            	
-                <div id="contenuObjectifs" style="font-weight: normal;">
+            	<div id="contenuObjectifs" style="font-weight: normal;" class="memePolice">
                 	<ul>
                     	<li>D’être un pont solide entre le Commerce et l’Industrie des 		deux rives de la Méditerranée.</li>
 						<li>Favoriser les partenariats Franco-Tunisiens.</li>

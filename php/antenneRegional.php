@@ -8,20 +8,25 @@
 		    
             <div class="container">
                 <div style="font-weight: bold; font-size: 1.9em; text-align: center;"> 
-                <p>Antennes régionales</p>
+                <h1 class="LesTitresDebut">Antennes régionales</h1>
                 </div>
-            	<div style="text-align: center; margin-bottom: 10px;">
-            		<img src="../Resources/antenne.jpg" width="100%">
+            	<div style="text-align: center;">
+            		<img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/logo.png">
             	</div>
-                <div class="row">
-                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
+                <!--<div class="row memePolice">
+                    <div class="col-md-offset-4 col-md-4" style="text-align: center; margin-top: 50px;">
                           <img src="../Resources/regionPACA.jpg" alt="regionPACA" width="300" height="200">
-                          <div style="font-size: 1.5em;">Région PACA</div>
+                          <div style="font-size: 1.5em;">En cours de validation</div>
                     </div>
+                </div>-->
+                <div class="row">
+                  <div class="col-md-12" style="color: #645D5D; font-weight: 700; margin-bottom: 60px;">
+                    <h1 class="text-left">Région PACA</h1>
+                  </div>
                 </div>
-                <div class="row" style="margin-top: 35px; font-size: 1.3em;">
-                    <div class="col-md-4" style="text-align: center;">
-                          <img src="../Resources/embleme_marseille.jpg" alt="regionPACA" width="250" height="200">
+                <div class="row" >
+                    <div class="col-md-4 memePolice" style="text-align: center;">
+                          <img src="../Resources/embleme_marseille.jpg" alt="regionPACA" width="150" height="100">
                           <div>Marseille </div>
                           <div class="row">
                             <div>Abdelkrim</div>
@@ -31,8 +36,8 @@
                             <a href="mailto:ccfrancotunisienne@hotmail.com">ccfrancotunisienne@hotmail.com</a>
                           </div>
                     </div>
-                    <div class="col-md-4" style="text-align: center;">
-                          <img src="../Resources/nice.jpg" alt="regionPACA" width="250" height="200">
+                    <div class="col-md-4 memePolice" style="text-align: center;">
+                          <img src="../Resources/nice.jpg" alt="regionPACA" width="150" height="100">
                           <div>Frejus/Nice</div>
                           <div class="row">
                             <div>Nassima</div>
@@ -42,21 +47,26 @@
                             <a href="mailto:assoc.scarab@gmail.com">assoc.scarab@gmail.com</a>
                           </div>
                     </div>
-                    <div class="col-md-4" style="text-align: center;">
-                          <img src="../Resources/toulon.gif" alt="regionPACA" width="250" height="200">
+                    <div class="col-md-4 memePolice" style="text-align: center;">
+                          <img src="../Resources/toulon.gif" alt="regionPACA" width="150" height="100">
                           <div>La Seyne/Toulon </div>
                             <div>En cours de validation</div>
                     </div>
                 </div>
-                <div class="row" style="margin-top: 50px;">
+                <!--<div class="row" style="margin-top: 50px;">
                     <div class="col-md-offset-4 col-md-4" style="text-align: center;">
                           <img src="../Resources/regionParis.jpg" alt="regionPACA" width="300" height="200">
                           <div style="font-size: 1.5em;">Région Parisienne</div>
                     </div>
+                </div>-->
+                <div class="row">
+                  <div class="col-md-12" style="color: #645D5D; font-weight: 700; margin-top: 60px;">
+                    <h1 class="text-left">Région Parisienne</h1>
+                  </div>
                 </div>
-                <div class="row" style="margin-top: 35px; font-size: 1.3em;">
-                    <div class="col-md-offset-4 col-md-4 " style="text-align: center;">
-                          <img src="../Resources/paris.gif" alt="region Parisienne" width="250" height="200">
+                <div class="row" style="margin-top: 35px;">
+                    <div class="col-md-4 memePolice" style="text-align: center;">
+                          <img src="../Resources/paris.gif" alt="region Parisienne" width="150" height="100">
                           <div>Paris</div>
                           <div class="row">
                             <div>Walid</div>
@@ -65,15 +75,20 @@
                           </div>
                     </div>
                 </div>
-                <div class="row" style="margin-top: 50px;">
-                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
+                <!--<div class="row" style="margin-top: 50px;">
+                    <div class="col-md-offset-4 col-md-4 memePolice" style="text-align: center;">
                           <img src="../Resources/ra.jpg" alt="region RA" width="300" height="200">
                           <div style="font-size: 1.5em;">Région Rhône Alpes</div>
                     </div>
+                </div>-->
+                <div class="row">
+                  <div class="col-md-12" style="color: #645D5D; font-weight: 700; margin-top: 60px;">
+                    <h1 class="text-left">Région Rhône Alpes</h1>
+                  </div>
                 </div>
                 <div class="row" style="margin-top: 35px; font-size: 1.3em;">
-                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
-                          <img src="../Resources/lyon.jpg" alt="region Parisienne" width="250" height="200">
+                    <div class="col-md-4 memePolice" style="text-align: center;">
+                          <img src="../Resources/lyon.jpg" alt="region Parisienne" width="150" height="100">
                           <div>Lyon</div>
                           <div>
                             En cours

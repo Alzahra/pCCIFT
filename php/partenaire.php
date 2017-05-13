@@ -7,29 +7,31 @@
     <body style="background: url('../Resources/harpe-extr.png') no-repeat fixed center; background-size: cover;">
         <!-- Page Content -->
             <div class="container">
-                <div style="text-align: center;">
-                    <img class="img-responsive" src="../Resources/partenaire.jpg" width="100%">
+                <div class="row">
+                    <div style="text-align: center;">
+                        <img class="col-md-offset-3 col-md-6 img-responsive" src="../Resources/logo.png">
+                    </div>
                 </div>
                 <div class="brand" style="color: black;">
-                    Partenaires :
+                    <h1 class="LesTitresDebut">Partenaires :</h1>
                 </div>
 
-                <div class="row" id="effacer1">
+                <div class="row">
                     <div class="col-md-3">
-                        <di>CPME (ancienne CGPME)</di>
-                        <div><a href="http://www.cpme.fr/" target="_blank"><img src="../Resources/Logo_cgpme.jpg" style="width:80%;height:15%" ></a></div>
+                        <div class="memePolice">CPME (ancienne CGPME)</div>
+                        <div><a href="http://www.cpme.fr/" target="_blank"><img src="../Resources/Logo_cgpme.jpg" width="200" height="200"></a></div>
                     </div>
                     <div class="col-md-3">
-                        <div>CCI Bizerte</div>
-                        <div><a href="http://www.ccibizerte.org/" target="_blank"> <img class="img-responsive" src="../Resources/CCibizerte.png" style="width:100%;height:120%" ></a></div>  
+                        <div class="memePolice">CCI Bizerte</div>
+                        <div><a href="http://www.ccibizerte.org/" target="_blank"> <img class="img-responsive" src="../Resources/CCibizerte.png"></a></div>  
                     </div>
                     <div class="col-md-3">
-                        <div>Région Paca « en cours »</div>
-                        <div><a href="http://www.regionpaca.fr/" target="_blank"> <img class="img-responsive" src="../Resources/Logo_PACA.jpg" style="width:100%;height:50%" ></a></div>
+                        <div class="memePolice">Région Paca «en cours»</div>
+                        <div><a href="http://www.regionpaca.fr/" target="_blank"> <img class="img-responsive" src="../Resources/Logo_PACA.jpg" style="width:100%; height:50%;"></a></div>
                     </div>
                     <div class="col-md-3">
-                        <div>CD13 « en cours »</div>
-                        <div><a href="https://www.departement13.fr/" target="_blank">  <img class="img-responsive" src="../Resources/logo-CD13.jpg" style="width:100%;height:50%" ></a></div>
+                        <div class="memePolice">CD13 «en cours»</div>
+                        <div><a href="https://www.departement13.fr/" target="_blank">  <img class="img-responsive" src="../Resources/logo-CD13.jpg" style="width:100%; height:50%;" ></a></div>
                     </div>
 
                 </div>
